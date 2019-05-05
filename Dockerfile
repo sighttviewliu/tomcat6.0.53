@@ -50,4 +50,4 @@ EXPOSE 8080
 EXPOSE 8009
 
 USER tomcat
-CMD ["tomcat.sh"]
+CMD [ "tomcat.sh" ]
